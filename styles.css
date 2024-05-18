@@ -153,7 +153,7 @@ footer {
   gap: 20px;
 }
 
-.scroll-container::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 10px; /* Ширина скроллбара */
 }
 
